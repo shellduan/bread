@@ -16,3 +16,6 @@ hexo server -d
 
 1、cd bread
 2、npx hexo server -d
+
+
+33
