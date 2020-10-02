@@ -109,3 +109,4 @@ admin:
   username: shelld
   password_hash: $2a$10$WK2aIjMye/ywMo.B/av/bO5ATwC0avKiMq0/IUgo1RGdXtVjllgB6
   secret: my super secret phrase
+  deployCommand: ./admin_script/hexo-g.sh
