@@ -104,3 +104,8 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+admin:
+  username: shelld
+  password_hash: $2a$10$WK2aIjMye/ywMo.B/av/bO5ATwC0avKiMq0/IUgo1RGdXtVjllgB6
+  secret: my super secret phrase
