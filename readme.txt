@@ -11,3 +11,8 @@ echo 'PATH="$PATH:./node_modules/.bin"' >> ~/.profile
 
 hexo server -d
 打开 http://localhost:4000/admin/ 就可以访问到hexo-admin管理页面了。
+
+本机执行命令行如下：
+
+1、cd bread
+2、npx hexo server -d
