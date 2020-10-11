@@ -679,3 +679,5 @@ There are 24 featured pictures in `/source/medias/featureimages`,you can add or 
   - Remove the search box under `IOS` to automatically get the focus attribute, preventing the view from moving up after automatically getting the focus;
 - v1.0.0
   - Added all the basic features;
+
+ooo
