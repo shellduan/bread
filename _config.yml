@@ -5,15 +5,15 @@
 # Site
 title: Hexo
 subtitle: ''
-description: ''
+description: '很多复杂问题只是更高维度世界里简单问题的投影'
 keywords:
-author: John Doe
-language: en
+author: 老熊
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://shellduan.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -45,7 +45,32 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
+  enable: false
+  
+prism_plugin:
+  mode: 'preprocess'    # realtime/preprocess
+  theme: 'tomorrow'    # 这里可以选择不同样式的主题
+  line_number: false    # default false
+  custom_css:
+  
+search:
+  path: search.xml
+  field: post
+  
+permalink_pinyin:
   enable: true
+  separator: '-' # default: '-'
+  
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -98,7 +123,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-bamboo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
