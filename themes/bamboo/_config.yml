@@ -145,7 +145,7 @@ music:
 # 关于我
 baseInfo:
   on: true
-  age: 99 # 年龄
+  age: 68 # 年龄
   sex: '男' # 性别
   coordinate: '火星' # 坐标
   status: '划水中' # 状态
