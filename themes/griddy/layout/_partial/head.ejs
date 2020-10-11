@@ -1,0 +1,104 @@
+<head>
+    <!-- favicon -->
+    <% if (theme.favicon){ %>
+        <link rel="shortcut icon" href="<%= theme.favicon %>" type="image/x-icon">
+        <link rel="icon" href="<%= theme.favicon %>" type="image/x-icon">
+    <% } %>
+    <!-- locale -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <!--Description-->
+    <%
+        var description = '';
+
+        if (page.description) {
+          description = page.description;
+        } else if (page.excerpt) {
+          description = strip_html(page.excerpt)
+                      .replace(/^\s*/, '')
+                      .replace(/\s*$/, '');
+        } else if (page.content) {
+          description = strip_html(page.content)
+                      .replace(/^\s*/, '')
+                      .replace(/\s*$/, '')
+                      .substring(0, 150);
+        } else {
+          description = config.description;
+        }
+
+        var terms = [];
+
+        if (page.categories) {
+            page.categories.each(function(item){ 
+              terms.push(item.name);
+            })
+        }
+
+        if (page.tags) {
+            page.tags.each(function(item){ 
+              terms.push(item.name);
+            })
+        }
+
+        if (terms) {
+          keywords = terms.join(', ');
+        }
+    %>
+    <meta name="description" content="<%= description || config.description %>">
+    <meta name="keywords" content="<%= keywords || config.keywords %>">
+    <meta name="author" content="<%= page.author || config.author %>">
+    <!-- og:description -->
+    <meta name="og:description" content="<%= description || config.description %>">
+    <!-- color -->
+    <meta name="theme-color" content="#ffffff">
+    <!--Author-->
+    <% if (config.author){ %>
+        <meta name="author" content="<%= config.author %>">
+    <% } %>
+    <!--Open Graph Title-->
+    <% if (page.title){ %>
+        <meta property="og:title" content="<%= page.title %>"/>
+    <% } %>
+    <!--Open Graph type-->
+    <meta property="og:type" content="website"/>
+    <!--Page Cover-->
+    <%  
+      var ogi; 
+      if (page.opengraphimage) {
+        ogi = page.opengraphimage;
+      } else if(config.opengraphimage) {
+        ogi = config.opengraphimage;
+      } else {
+        ogi = theme.profile_pic;
+      }
+      ogi = config.url + url_for(ogi);
+    %>
+    <meta property="og:image" content="<%= ogi %>">
+    <!--Open Graph Site Name-->
+    <meta property="og:site_name" content="<%= config.title %>"/>
+    <!-- Title -->
+    <%
+        var title = [];
+        if (page.current > 1) title.push(__('page', page.current));
+        if (page.title) title.push(page.title);
+        if (page.category) title.push(page.category);
+        if (page.tag) title.push(page.tag);
+        if (page.archive) {
+            if (page.year) title.push(__('All Post', page.year + (page.month ? '/' + page.month : '')));
+            else title.push(__('All Post'));
+        }
+        title.push(config.title);
+    %>
+    <title><%= title.join(' - ') %></title>
+    <!-- framework CSS -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css" rel="stylesheet">    
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <%- css('css/index.css') %>
+    <%- css('css/component.css') %>
+    <%- js('js/modernizr.custom.js') %>
+    <!-- jquery -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
+</head>
