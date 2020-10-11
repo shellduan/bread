@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- partial('_partial/head') %>
+    <body class="has-background-light">
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section"></div>
+        </div>
+        <%- partial('_partial/menu') %>
+        <div class="container">
+            <%- body %>
+        </div>
+    </body>
+    <footer>
+        <%- partial('_partial/footer') %>
+    </footer>
+    <%- partial('_partial/after-footer') %>
+</html>
