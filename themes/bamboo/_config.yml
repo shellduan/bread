@@ -92,7 +92,7 @@ inputEffects:
 
 # live-2d(左下角动画人物)
 live2d:
-  on: true
+  on: false
 
 # 首页文章列表滚动动画，详情参照https://github.com/michalsnik
 aos:
@@ -108,7 +108,7 @@ aos:
 
 # 添加 Google Analytics 配置
 googleAnalytics:
-  on: false
+  on: true
   id:
 
 # 添加 baidu Analytics 配置
