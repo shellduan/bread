@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>老熊的烘焙圈</title>
   
   
   <link href="https://shellduan.github.io/atom.xml" rel="self"/>
   
   <link href="https://shellduan.github.io/"/>
-  <updated>2020-10-11T13:05:19.680Z</updated>
+  <updated>2020-10-11T13:32:44.576Z</updated>
   <id>https://shellduan.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://shellduan.github.io/2020/10/02/untitled/"/>
     <id>https://shellduan.github.io/2020/10/02/untitled/</id>
     <published>2020-10-02T21:58:36.000Z</published>
-    <updated>2020-10-11T13:05:19.680Z</updated>
+    <updated>2020-10-11T13:32:44.576Z</updated>
     
     
       
@@ -44,7 +44,7 @@
     <link href="https://shellduan.github.io/2020/10/02/hello-world/"/>
     <id>https://shellduan.github.io/2020/10/02/hello-world/</id>
     <published>2020-10-02T21:39:00.000Z</published>
-    <updated>2020-10-11T13:05:19.680Z</updated>
+    <updated>2020-10-11T13:32:44.576Z</updated>
     
     
       
