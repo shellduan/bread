@@ -36,12 +36,7 @@ swiper:
   defaultMoreLink: 'https://shellduan.github.io/archives/' # 阅读更多链接 
   defaultBtnText: 'Youtube' # 阅读更多右边的按钮的文字
   defaultBtnLink: 'https://www.youtube.com/channel/UCFnIVbzPB6cbnF0KjioR0Wg' # 阅读更多右边的按钮的链接
-  defaultBtnText: 'BiliBili' # 阅读更多右边的按钮的文字
-  defaultBtnLink: 'https://space.bilibili.com/89961048/' # 阅读更多右边的按钮的链接
-  defaultBtnText: '今日头条' # 阅读更多右边的按钮的文字
-  defaultBtnLink: 'https://www.toutiao.com/c/user/52566302056/#mid=52566986257' # 阅读更多右边的按钮的链接
-
-
+  
 # 回到顶部
 goTop: 
   on: true
