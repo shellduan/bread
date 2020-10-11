@@ -31,11 +31,11 @@ swiper:
   textDelay: '0.1s' # 文字动画延迟时间（单位秒）
   # 当没有文章设置swiper: true时候，轮播图会显示以下default默认内容，可自行切换对应内容
   defaultImg: '/medias/14.png' # 图片，没有则随机选取
-  defaultTile: 'Hexo-theme-Bamboo' # 标题
-  defaultDesc: '大家好，这是一个Hexo主题，希望这款主题能得到你的喜爱' #描 述
-  defaultMoreLink: 'https://github.com/yuang01/hexo-theme-bamboo' # 阅读更多链接 
-  defaultBtnText: 'Download theme' # 阅读更多右边的按钮的文字
-  defaultBtnLink: 'https://github.com/yuang01/hexo-theme-bamboo' # 阅读更多右边的按钮的链接
+  defaultTile: '小熊喜欢吃面包' # 标题
+  defaultDesc: '您好！欢迎加入 —— 老熊的烘焙圈🍞 这里是一个热爱烘焙的交流园地，希望在这里，您可以找到志同道合的朋友🧑‍🤝‍🧑 👫 👭' #描 述
+  defaultMoreLink: 'https://shellduan.github.io/archives/' # 阅读更多链接 
+  defaultBtnText: 'Youtube' # 阅读更多右边的按钮的文字
+  defaultBtnLink: 'https://www.youtube.com/channel/UCFnIVbzPB6cbnF0KjioR0Wg' # 阅读更多右边的按钮的链接
 
 # 回到顶部
 goTop: 
