@@ -17,7 +17,6 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-        github: https://shellduan.github.io
         youtube: https://www.youtube.com/channel/UCFnIVbzPB6cbnF0KjioR0Wg?sub_confirmation=1
         weibo: http://weibo.com/shelld
         rss: /
