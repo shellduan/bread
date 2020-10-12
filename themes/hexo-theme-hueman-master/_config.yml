@@ -7,13 +7,13 @@ menu:
 
 # Customize
 customize:
-    logo:
+    logo:center
         width: 165
         height: 165
         url: images/logo-header.png
     theme_color: '#006bde'
     highlight: androidstudio
-    sidebar: center # sidebar position, options: left, right
+    sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
