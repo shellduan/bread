@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>老熊的烘焙圈</title>
   
-  
+  <subtitle>很多复杂问题只是更高维度世界里简单问题的投影</subtitle>
   <link href="https://shellduan.github.io/atom.xml" rel="self"/>
   
   <link href="https://shellduan.github.io/"/>
-  <updated>2020-10-12T14:57:31.255Z</updated>
+  <updated>2020-10-12T14:59:17.501Z</updated>
   <id>https://shellduan.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://shellduan.github.io/2020/10/12/huo-yan-bu-lang-ni/"/>
     <id>https://shellduan.github.io/2020/10/12/huo-yan-bu-lang-ni/</id>
     <published>2020-10-12T22:52:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -46,7 +46,7 @@
     <link href="https://shellduan.github.io/2020/10/12/qian-ceng-su-pi-you-bao-mian/"/>
     <id>https://shellduan.github.io/2020/10/12/qian-ceng-su-pi-you-bao-mian/</id>
     <published>2020-10-12T22:51:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -71,7 +71,7 @@
     <link href="https://shellduan.github.io/2020/10/12/mei-wei-jing-li-de-tian-tian-quan/"/>
     <id>https://shellduan.github.io/2020/10/12/mei-wei-jing-li-de-tian-tian-quan/</id>
     <published>2020-10-12T22:50:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -96,7 +96,7 @@
     <link href="https://shellduan.github.io/2020/10/12/tian-tian-mi-mi-de-gui-xiang-juan/"/>
     <id>https://shellduan.github.io/2020/10/12/tian-tian-mi-mi-de-gui-xiang-juan/</id>
     <published>2020-10-12T22:47:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -121,7 +121,7 @@
     <link href="https://shellduan.github.io/2020/10/12/shuang-se-ke-song-yang-jiao-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/shuang-se-ke-song-yang-jiao-mian-bao/</id>
     <published>2020-10-12T22:45:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -146,7 +146,7 @@
     <link href="https://shellduan.github.io/2020/10/12/ke-song-yang-jiao-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/ke-song-yang-jiao-mian-bao/</id>
     <published>2020-10-12T22:41:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -171,7 +171,7 @@
     <link href="https://shellduan.github.io/2020/10/12/bao-jiang-nai-huang-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/bao-jiang-nai-huang-bao/</id>
     <published>2020-10-12T22:40:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -196,7 +196,7 @@
     <link href="https://shellduan.github.io/2020/10/12/ri-shi-bo-luo-bao-mi-gua-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/ri-shi-bo-luo-bao-mi-gua-bao/</id>
     <published>2020-10-12T22:39:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -221,7 +221,7 @@
     <link href="https://shellduan.github.io/2020/10/12/wu-tang-wu-you-de-tang-chong-ya-ma-zi-mo-zhi-tu-si/"/>
     <id>https://shellduan.github.io/2020/10/12/wu-tang-wu-you-de-tang-chong-ya-ma-zi-mo-zhi-tu-si/</id>
     <published>2020-10-12T22:37:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -246,7 +246,7 @@
     <link href="https://shellduan.github.io/2020/10/12/tian-ran-xiao-mu-di-wen-fa-xiao-xian-nai-you-tu-si/"/>
     <id>https://shellduan.github.io/2020/10/12/tian-ran-xiao-mu-di-wen-fa-xiao-xian-nai-you-tu-si/</id>
     <published>2020-10-12T22:34:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -271,7 +271,7 @@
     <link href="https://shellduan.github.io/2020/10/12/hong-dou-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/hong-dou-mian-bao/</id>
     <published>2020-10-12T22:33:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -296,7 +296,7 @@
     <link href="https://shellduan.github.io/2020/10/12/ji-chu-mian-bao-zhi-huang-you-mian-bao-juan/"/>
     <id>https://shellduan.github.io/2020/10/12/ji-chu-mian-bao-zhi-huang-you-mian-bao-juan/</id>
     <published>2020-10-12T22:30:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -321,7 +321,7 @@
     <link href="https://shellduan.github.io/2020/10/12/la-tuo-wei-ya-hei-mai-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/la-tuo-wei-ya-hei-mai-mian-bao/</id>
     <published>2020-10-12T22:25:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -346,7 +346,7 @@
     <link href="https://shellduan.github.io/2020/10/12/3-xiao-shi-kuai-su-fa-gun/"/>
     <id>https://shellduan.github.io/2020/10/12/3-xiao-shi-kuai-su-fa-gun/</id>
     <published>2020-10-12T22:24:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -371,7 +371,7 @@
     <link href="https://shellduan.github.io/2020/10/12/e-luo-si-bo-luo-jin-nuo-hei-mai-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/e-luo-si-bo-luo-jin-nuo-hei-mai-mian-bao/</id>
     <published>2020-10-12T22:22:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -396,7 +396,7 @@
     <link href="https://shellduan.github.io/2020/10/12/e-luo-si-hei-mai-da-lie-ba/"/>
     <id>https://shellduan.github.io/2020/10/12/e-luo-si-hei-mai-da-lie-ba/</id>
     <published>2020-10-12T22:20:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -421,7 +421,7 @@
     <link href="https://shellduan.github.io/2020/10/12/60-shui-han-liang-ge-ye-fa-xiao-fa-chuan-tong-fa-gun/"/>
     <id>https://shellduan.github.io/2020/10/12/60-shui-han-liang-ge-ye-fa-xiao-fa-chuan-tong-fa-gun/</id>
     <published>2020-10-12T22:12:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -446,7 +446,7 @@
     <link href="https://shellduan.github.io/2020/10/12/da-mi-hu-wen-cui-pi-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/da-mi-hu-wen-cui-pi-mian-bao/</id>
     <published>2020-10-12T22:11:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -471,7 +471,7 @@
     <link href="https://shellduan.github.io/2020/10/12/hei-mai-bei-guo/"/>
     <id>https://shellduan.github.io/2020/10/12/hei-mai-bei-guo/</id>
     <published>2020-10-12T22:08:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
@@ -496,7 +496,7 @@
     <link href="https://shellduan.github.io/2020/10/12/tian-ran-xiao-mu-quan-mai-xiang-cun-mian-bao/"/>
     <id>https://shellduan.github.io/2020/10/12/tian-ran-xiao-mu-quan-mai-xiang-cun-mian-bao/</id>
     <published>2020-10-12T22:04:00.000Z</published>
-    <updated>2020-10-12T14:57:31.255Z</updated>
+    <updated>2020-10-12T14:59:17.501Z</updated>
     
     
       
