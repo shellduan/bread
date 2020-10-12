@@ -20,7 +20,7 @@ customize:
         youtube: https://www.youtube.com/channel/UCFnIVbzPB6cbnF0KjioR0Wg?sub_confirmation=1
         instagram: https://www.instagram.com/shellduan/
         weibo: http://weibo.com/shelld
-        rss: /
+        rss: atom.xml
 
 # Widgets
 widgets:
