@@ -1489,10 +1489,6 @@ a.article-title:hover {
 .lg-outer .lg-thumb-item {
   border-radius: 0 !important;
 }
-table th {
-  border-bottom: 2px solid;
-  min-width: 100px;
-}
 #comments {
   padding: 30px 30px 20px;
 }
